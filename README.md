@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @elijahrenner
+- 👀 I’m interested in financial software development
+- 🌱 I’m currently learning python, and possibly some javascript later on
+- 💞️ I’m looking to collaborate on anything helpful for finance nuts like me!
+- 📫 How to reach me @leveredaf on twitter
