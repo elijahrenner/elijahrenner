@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @elijahrenner
-- 👀 I’m interested in financial software development
-- 🌱 I’m currently learning python, and possibly some javascript later on
-- 💞️ I’m looking to collaborate on anything helpful for finance nuts like me!
-- 📫 How to reach me @leveredaf on twitter
+- 👀 I’m interested in pharmaceutical/medical research applications in computer science!
+- 🌱 I’m currently learning Python and JavaScript!
+- 📫 rennerelijah4@gmail.com or 802-477-2719
