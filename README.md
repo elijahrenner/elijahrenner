@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @elijahrenner
 - 👀 I’m interested in pharmaceutical/medical research applications in computer science!
-- 🌱 I’m currently learning Python and JavaScript!
-- 📫 rennerelijah4@gmail.com or 802-477-2719
+- 🌱 I’m currently working with Python and JavaScript!
+- 📫 rennerelijah4@gmail.com
