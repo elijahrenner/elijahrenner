@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @elijahrenner
-- 👀 I’m interested in pharmaceutical/medical research applications in computer science!
-- 🌱 I’m currently working with Python and JavaScript!
-- 📫 rennerelijah4@gmail.com
+# Hello!
+
+I'm Elijah, a Thetford Academy student researching and developing practical applications of AI in healthcare.
+
+## Contact Me
+
+You can reach me at <elijah.renner@thet.net>.
