@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Elijah, a Thetford Academy student researching and developing practical applications of AI in healthcare.
+I'm Elijah, a Thetford Academy student interested in science.
 
 ## Contact Me
 
